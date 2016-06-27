@@ -4,7 +4,7 @@
   "description": "Write an algorithm that with a given single input of type Number, returns the sum of the square root of every number from 1 to the number that was passed in.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
