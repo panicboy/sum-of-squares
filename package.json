@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/panicboy/sum-of-squares/issues"
   },
-  "homepage": "https://github.com/panicboy/sum-of-squares#readme"
+  "homepage": "https://github.com/panicboy/sum-of-squares#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
 }
