@@ -1,5 +1,7 @@
-// var chai = require('chai');
+var chai = require('chai');
 chai.should();
+
+var sumOfSquares = require('../sumOfSquares');
 
 describe('sumOfSquares', function(){
   it('should be a function', function() {
